@@ -10,7 +10,7 @@ The utilization of open-source software by tech behemoths like Meta and Microsof
 
 User Rights and Corporate Control
 
-Platforms such as Meta’s AudioCraft and Microsoft’s Bing Image Creator exemplify a new frontier where user contributions become integral to the service. However, the terms dictating these contributions often skew heavily in favor of the corporations. The users, while being the bedrock of content generation, find their rights and recognition overshadowed by corporate branding and profit motives. The users are given non-commercial rights, yet the corporation takes full exploitative rights. bing applies their logo, so from a technical perspective of law the user if the bing image generator has broken the law by uploading the contebt to instagram or printing it on a postacrd and selling it. 
+Platforms such as Meta’s AudioCraft and Microsoft’s Bing Image Creator exemplify a new frontier where user contributions become integral to the service. However, the terms dictating these contributions often skew heavily in favor of the corporations. The users, while being the bedrock of content generation, find their rights and recognition overshadowed by corporate branding and profit motives. The users are given non-commercial rights, yet the corporation takes full exploitative rights. Bing applies their logo to user geberated images, so from a technical perspective of copyright law the user of the bing image generator has broken the law by uploading the contebt they created on Bing to instagram, or printing it on a postacrd and selling it. One can give all rights to their voice on Metas Audio craft, yet they are not promted of this detail when adding their unique voice to Audio craft. 
 
 The Capitalist Paradigm in Tech Innovation
 
