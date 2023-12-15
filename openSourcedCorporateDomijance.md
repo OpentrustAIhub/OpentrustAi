@@ -29,7 +29,7 @@ The Role of AI in Shaping the Future
 	•	Reflect on the responsibility of AI developers and companies in shaping a future that is equitable and beneficial for all.
 	•	Question the current trajectory where a few corporations hold significant sway over the direction of AI and technology.
 
-The Broader Impact
+The Broader Impact ..
 
 	•	Consider the global implications, such as the impact on developing regions and the role of technology in societal advancement.
 	•	Discuss the need for a more inclusive and decentralized approach to AI development.
