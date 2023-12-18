@@ -9,7 +9,7 @@ The Monopolization of AI and Technology
 	•	Discuss the trend of tech giants using open-source software while keeping their ‘secret ingredients’ proprietary.
 	•	Highlight the contrast between the open-source ethos and the business practices of these corporations.
 
-Case Studies of Corporate Influence..?
+Case Studies of Corporate Influence..?..
 
 	•	Examine specific instances like Tesla’s foray into AI and robotics, Microsoft’s acquisition of GitHub, and Meta’s research projects.
 	•	Discuss the implications of these actions on the open-source community and the broader tech ecosystem.
