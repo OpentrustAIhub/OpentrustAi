@@ -3,7 +3,7 @@ SingularityNET: A Vision for Decentralized AI
 Project Overview:
 SingularityNET, led by AI researcher Ben Goertzel, is a decentralized platform designed to create a global AI marketplace. It leverages blockchain technology, particularly integrating with the Cardano blockchain, to allow for the creation, sharing, and monetization of AI services at scale.
 
-Decentralization and AI: .. 
+Decentralization and AI: .. . 
 
 	•	Democratizing AI: Unlike centralized AI systems controlled by large corporations, SingularityNET’s decentralized nature aims to prevent monopolies in AI development and usage.
 	•	Blockchain Integration: By using blockchain, SingularityNET ensures transparency and security in AI transactions and collaborations, fostering a more trustable environment for AI development and deployment.
